@@ -16,3 +16,6 @@ https://pypi.org/project/opencv-python/
 metode:
 https://github.com/opencv/opencv/tree/4.x/data/haarcascades_cuda
 
+link:
+https://sworepublic.sharepoint.com/sites/MultimediaContentAnalysis/_layouts/15/stream.aspx?id=%2Fsites%2FMultimediaContentAnalysis%2FShared%20Documents%2FGeneral%2FRecordings%2FProject%20face%20recognition%2D20221109%5F080141%2DMeeting%20Recording%2Emp4
+
