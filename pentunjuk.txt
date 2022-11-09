@@ -10,4 +10,5 @@ pip install cv2
 
 bisa di lihat di sini
 https://binus.ac.id/bandung/2020/01/cara-melakukan-instalasi-opencv-yang-terintegrasi-dengan-python-3-7-di-windows-10/
+https://pypi.org/project/opencv-python/
 
